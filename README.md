@@ -32,11 +32,6 @@ Desenvolvido com Node.js, TypeScript, Express e PostgreSQL.
 
 ---
 
-## ✅ Objetivo desta atualização
-Melhorei as instruções de instalação e execução para deixar claro **onde** executar cada comando (pasta/terminal) e quais passos são obrigatórios versus opcionais.
-
----
-
 ## 🚩 Pré-requisitos (o que precisa estar instalado)
 - Node.js (v16+)
 - npm
@@ -439,4 +434,5 @@ ISC
 
 ## 👨‍💻 Autor
 
-Desenvolvido para a Pizzaria GaloDoido
+Geovanne Shoji Kimura 2503995
+Pedro Escala Campos 2500718
